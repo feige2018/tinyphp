@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks -Multiviews
+  RewriteEngine On
+
+   # 禁止访问以下后缀的文件
+   RewriteRule ^(.*)\.(htaccess|conf|ini|log|sh|sql|gitignore|env|example|lock|md|key|txt)$ - [NC,F,L]
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+
+</IfModule>
