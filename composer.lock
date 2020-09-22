@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "21xianfei/tiny-php",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/feige2018/tinyphp-framework.git",
-                "reference": "8939975190a70108f605c63c949f7b1293d25e9a"
+                "reference": "7270f931b448b544bd9a65c1e4af09bfcbe3294b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/feige2018/tinyphp-framework/zipball/8939975190a70108f605c63c949f7b1293d25e9a",
-                "reference": "8939975190a70108f605c63c949f7b1293d25e9a",
+                "url": "https://api.github.com/repos/feige2018/tinyphp-framework/zipball/7270f931b448b544bd9a65c1e4af09bfcbe3294b",
+                "reference": "7270f931b448b544bd9a65c1e4af09bfcbe3294b",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -49,7 +49,7 @@
                 }
             ],
             "description": "TinyPHP 极简PHP框架",
-            "time": "2020-09-22T16:35:50+00:00"
+            "time": "2020-09-22T18:06:20+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
