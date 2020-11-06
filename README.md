@@ -9,9 +9,6 @@ TinyPHP 极简PHP框架 Demo 应用项目.
 #### 安装框架：
 ```
 composer require 21xianfei/tiny-php
-
-框架源码：
-https://github.com/feige2018/tinyphp-framework
 ```
 
 #### 安装 Demo 应用项目（含框架）
