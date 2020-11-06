@@ -16,7 +16,8 @@ https://github.com/feige2018/tinyphp-framework
 
 #### 安装 Demo 应用项目（含框架）
 ```
-git clone https://github.com/feige2018/tiny-php.git
+git clone https://gitee.com/21xianfei/tinyphp.git
+git clone https://github.com/feige2018/tinyphp.git
 ```
 
 ##### 运行项目
