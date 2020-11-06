@@ -9,7 +9,9 @@
     "php": ">=7.1",
     "21xianfei/tiny-php": "^1.0",
     "topthink/think-orm": "^2.0",
-    "guzzlehttp/guzzle": "^6.5"
+    "guzzlehttp/guzzle": "^6.5",
+    "react/react": "^1.1",
+    "react/filesystem": "^0.1.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.3"
